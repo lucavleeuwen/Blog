@@ -1,0 +1,51 @@
+
+body {
+background-color:black;
+}
+
+h1 {
+ color: white;
+ text-align: center;
+}
+
+p {
+ font-family: verdana;
+ font-size: 20px;
+
+ margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+.topnav a {
+  float: right;
+  color: grey ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:white ;
+  color: black;
+}
+.Luca video {
+  width: 250px;
+  height: 150px;
+  border-radius: 100%;
+  position: absolute;
+  top: 300px;
+  z-index: 5;
+}
+video {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: -125px;
+  left: 325px;
+}
